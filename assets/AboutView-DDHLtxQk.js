@@ -1,0 +1,1 @@
+import{_ as s,c as a,a as t,o}from"./index-C5RPDgR4.js";const c={},n={class:"about"};function r(_,e){return o(),a("div",n,e[0]||(e[0]=[t("h1",null,"Esta es una página simple acerca de ...",-1)]))}const l=s(c,[["render",r]]);export{l as default};
